@@ -1,1 +1,1 @@
-### Machine-Learning templates for faster and easier coding
+### Machine-Learning templates for faster and easier coding⚡
